@@ -60,6 +60,7 @@ select {
 
 .error-icon::after {
   content: '!';
+  position: relative;
 }
 
 .tooltip {
@@ -126,7 +127,7 @@ button:hover {
   color: black;
   text-decoration: none;
 }
-//* Existing styles */
+
 
 .info-icon {
   font-size: 0.8em;
